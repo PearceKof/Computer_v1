@@ -1,5 +1,7 @@
 # Computor v1
 
+![42](https://img.shields.io/badge/School-42-black?style=flat-square&logo=42)
+
 ## Description
 
 **Computor v1** is a program that solves polynomial equations of degree 2 or lower. It is designed to reintroduce fundamental mathematical concepts essential for other projects. This program displays the reduced form of the equation, its degree, and its solutions (including discriminant analysis).
