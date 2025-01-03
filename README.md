@@ -49,8 +49,7 @@ The polynomial degree is strictly greater than 2, I can't solve.
 ```bash
 git clone <repository-url>
 cd <repository-directory>
-Or directly download the computor.py file.
-Make the script executable:
+
 ```
 Or directly download the computor.py file.
 
@@ -59,8 +58,6 @@ Or directly download the computor.py file.
 ```bash
 chmod +x computor.py
 (Optional) Install Python:
-If Python is not installed on your system, follow the instructions on the official website:
-https://www.python.org/downloads//www.python.org/downloads/
 ```
 
 ### (Optional) Install Python:
